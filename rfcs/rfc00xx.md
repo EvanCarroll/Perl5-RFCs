@@ -9,7 +9,7 @@
 
 ## Abstract
 
-Accept a template string for environmental variables `PERL5LIB` and
+Accept a template string in environmental variables `PERL5LIB` and
 `PERL_MM_OPT` which expands to the current perl version.
 
 ## Motivation
